@@ -1,5 +1,4 @@
 I’m Jozz. I created this organization for all my packages with one clear goal:  
-To remove the friction from development and deliver tools that are:
 
 At the core of my philosophy is an uncompromising focus on four things: developer experience, performance, reliability, and clarity.
 Every package is built to feel intuitive and effortless from the first line of code — no boilerplate, no surprises.
