@@ -1,14 +1,9 @@
-I’m Jozz. I created this organization for all my packages with one clear goal:  
+I’m Jozz. My focus is simple: developer experience, performance, reliability, and clarity. Every package is easy to use from the first line, no boilerplate, no surprises. Under the hood, it’s fast and lightweight, built to handle real-world pressure. Everything is tested, production-ready, and backed by clear, honest docs.
 
-At the core of my philosophy is an uncompromising focus on four things: developer experience, performance, reliability, and clarity.
-Every package is built to feel intuitive and effortless from the first line of code — no boilerplate, no surprises.
-Under the hood, each tool is engineered for speed and minimal overhead, optimized down to the byte.
-It’s not enough to just work — it must work flawlessly under real-world pressure, which is why everything is battle-tested and production-grade.
-And finally, every concept is backed by simple, honest documentation that makes understanding and using the tools as straightforward as possible.
+### I value:
 
-1. Zero Friction - No setup files. No repeated strings. No unnecessary classes. If it can be done in one line, it will be.
-2. Clarity First - Every tool should feel like it's part of the language. No confusing APIs. No magic. Just clear, powerful functionality.
-3. Tested Relentlessly - Every edge case matters. Every line is verified. When you ship with jozzdart, you can trust what’s under the hood.
-4. Practical Utility - These tools are born from real apps — not toy problems. They exist because I needed them. You probably do too.
-5. Built for Scale - From small side projects to enterprise-scale apps, everything here is designed to scale up with zero rewrites.
-
+1. Zero Friction – No setup files, no repeated strings, no clutter — one-liners wherever possible.
+2. Clarity First – Feels native, reads clean, no magic or confusing APIs.
+3. Tested Relentlessly – Every edge case matters, every line verified — production-ready by default.
+4. Practical Utility – Built from real-world needs, not toy problems — tools I needed, and you probably do too.
+5. Built for Scale – From tiny projects to enterprise apps — designed to scale with zero rewrites.
