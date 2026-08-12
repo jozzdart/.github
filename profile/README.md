@@ -1,9 +1,11 @@
-I’m Jozz. My focus is simple: developer experience, performance, reliability, and clarity. Every package is easy to use from the first line, no boilerplate, no surprises. Under the hood, it’s fast and lightweight, built to handle real-world pressure. Everything is tested, production-ready, and backed by clear, honest docs.
+I’m Jozz. With JozzDart, I want to create tools that feel simple, thoughtful, and genuinely pleasant to use.
 
-### I value:
+I care deeply about the experience behind every package: how easily someone can get started, how naturally the API reads, how clearly things are documented, and how reliably everything behaves. My goal is to take care of the complicated details so others don’t have to.
 
-1. Zero Friction – No setup files, no repeated strings, no clutter — one-liners wherever possible.
-2. Clarity First – Feels native, reads clean, no magic or confusing APIs.
-3. Tested Relentlessly – Every edge case matters, every line verified — production-ready by default.
-4. Practical Utility – Built from real-world needs, not toy problems — tools I needed, and you probably do too.
-5. Built for Scale – From tiny projects to enterprise apps — designed to scale with zero rewrites.
+### What matters to me
+
+1. **Less friction** - Minimal setup, less repetition, and as little boilerplate as possible.
+2. **Clarity** - APIs that feel natural, familiar, and easy to understand.
+3. **Reliability** - Careful testing, predictable behavior, and attention to edge cases.
+4. **Practicality** - Solving real problems in ways that are genuinely useful.
+5. **Thoughtful growth** - Keeping things approachable for small projects while leaving room for bigger ones.
